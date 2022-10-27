@@ -39,4 +39,4 @@ jobs:
           app-name: 'powercunsumptionfunction'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_241979EEED0842E7A6A0A6D1A6AFAEDF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_518F523529684FBCB78381C9FBA56082 }}
